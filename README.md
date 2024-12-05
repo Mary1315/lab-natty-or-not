@@ -1,5 +1,5 @@
 
-# Título do Projeto Extremamente Aesthetic ;)
+# Educação sem Neura
 
 ## 📒 Descrição
   A IA degenerativa pode ajudar os professores na preparação de aulas e provas do mesmo conteúdo, mas de formas diferentes afim de atender as limitações e condições de cada aluno.
